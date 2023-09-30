@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #ffcccc;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #ff0000;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  .photo-gallery img {
+    max-width: 100%;
+    margin: 5px;
+  }
+  
+  iframe {
+    max-width: 100%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #d6129b;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #d6129b;
+  }
+  
+  button:focus {
+    outline: none;
+  }
